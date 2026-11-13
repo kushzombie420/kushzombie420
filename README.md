@@ -69,6 +69,14 @@ A portable Windows utility for software dimming across multiple monitors, with p
 
 **Status:** Polished **v1.0.5c opens in the owner's Windows test**. The previously accepted **v1.0.4 rollback** remains downloadable. Other hardware and long-term reliability are not yet independently verified. The original v1.0.5 launch failure was not shipped as the current download.
 
+### Aubum Control Panel · Watchtower
+
+[**View the Control Panel v0.6.6 screenshot showcase**](https://github.com/kushzombie420/aubum-local-node/blob/main/docs/CONTROL_PANEL_V066_2026-11-07.md)
+
+A local-first Windows control dashboard for the private Aubum AI fleet. The Watchtower design unifies multi-GPU telemetry, worker health, system status, and Creative Studio mode visibility in a dark purple-and-green interface.
+
+**Status:** **Working private prototype**, with five GPU feeds shown live in the November 7 field checkpoint. Public documentation includes five annotated screenshots and honest verification boundaries. **Source, live control bridges, credentials, internal network configuration, and deployable builds remain private.** Full reboot and unattended recovery have not been certified.
+
 ## Aubum · ongoing AI development
 
 [Aubum Local Node](https://github.com/kushzombie420/aubum-local-node) explores how heterogeneous consumer computers and GPUs can coordinate AI workloads as a locally owned system.

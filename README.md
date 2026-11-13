@@ -85,6 +85,24 @@ A standalone browser-based desktop clock with a dark charcoal, purple, and zombi
 
 **Status:** **v2.1 running on Windows, confirmed by the project owner on November 12, 2026.** The HTML also passed local Chromium interaction checks. The optional desktop shortcut helper remains separately unverified. The earlier v2 original is preserved.
 
+## Android apps
+
+### Cash Zombie · tips, income and shifts
+
+[**Explore Cash Zombie**](projects/cash-zombie/README.md)
+
+A zombie-branded Flutter income and shift-tracking app covering Clock In/Out, wages, tips, editable shifts, chronological history, and local data storage.
+
+**Status:** v0.2.4+6 reached Google Play **Internal testing** and was installed on the owner's phone. A later **v0.2.5+7** development version passed Flutter analysis and 18 tests in August 2026; a Play upload of that version is not confirmed. **No public download offered here.**
+
+### Sum of the Dead · zombie calculator
+
+[**Explore Sum of the Dead**](projects/sum-of-the-dead/README.md)
+
+An Android Flutter calculator project with zombie styling and documented Calculate, History and Settings sections.
+
+**Status:** v0.1.1 Android App Bundle built and progressed into Google Play's **Internal testing release flow**. Final tester distribution is not verified. Proposed scientific and sound features are not claimed as finished. **No public download offered here.**
+
 ## Aubum · ongoing AI development
 
 [Aubum Local Node](https://github.com/kushzombie420/aubum-local-node) explores how heterogeneous consumer computers and GPUs can coordinate AI workloads as a locally owned system.

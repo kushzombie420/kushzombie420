@@ -10,7 +10,7 @@
 
 **[Download KushZombie Clock v2.1 DarkZombie Edition (portable ZIP)](downloads/KushZombie_Clock_v2.1_DarkZombie_Windows_Portable_TEST.zip)**
 
-This is a **public test build**, not yet a user-accepted Windows release. The HTML clock itself was exercised in Chromium; the desktop-shortcut helper has not yet been tested on Windows.
+**Windows operation verified by the project owner on November 12, 2026:** the v2.1 clock is currently running on Windows. The HTML was also exercised in Chromium. The separate desktop-shortcut helper has not yet been independently confirmed.
 
 - Extract the ZIP into a folder you intend to keep.
 - Run `START_CLOCK.cmd` on Windows, or open `KushZombie_Clock_v2.1_DarkZombie.html` in a browser.
@@ -29,7 +29,7 @@ This is a **public test build**, not yet a user-accepted Windows release. The HT
 
 ## Verification and limits
 
-The updated HTML was tested with Chromium at desktop and portrait screen sizes and the time, hour-format, seconds, glow and dim controls responded without observed JavaScript errors. This does **not** establish compatibility with every Windows/browser configuration. An extracted Windows shortcut and end-user acceptance remain unverified.
+**User-confirmed on Windows (November 12, 2026):** the owner reports actively using the v2.1 clock. Separately, the updated HTML passed Chromium interaction checks at desktop and portrait screen sizes, including hour-format, seconds, glow, and dim controls. The desktop-shortcut helper has **not** yet been explicitly verified, and compatibility with every Windows/browser configuration is not claimed.
 
 The initial **v2 LIVE** HTML is retained separately in the user's private development archive and was not overwritten by this presentation refresh.
 

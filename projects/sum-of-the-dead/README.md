@@ -1,6 +1,6 @@
 # Sum of the Dead
 
-**Zombie-themed Android calculator · Flutter · Development / internal-test candidate**
+**Zombie-themed Android calculator · Flutter · Tested development build / internal-test project**
 
 Sum of the Dead is a calculator app with a dark zombie-themed interface and green/purple visual styling. The project is separate from Cash Zombie, though possible future cross-app interaction has been discussed only as an idea.
 
@@ -16,17 +16,17 @@ A more ambitious concept poster explored scientific calculations, copy/share too
 
 | Area | Evidence-based status |
 | --- | --- |
-| Preserved Flutter source generation | **v0.1.1** |
+| Preserved release baseline | **v0.1.1**, Android App Bundle built |
 | Android App Bundle | **Built successfully** and protected in the private release archive |
 | Play release candidate | **v0.1.1 / versionCode 2** reached the **Internal testing release flow** |
 | Internal testing | Track and tester lists configured; **final publication/tester availability not conclusively verified** |
 | Android compatibility shown in Play Console | Android API 24+; target SDK 36 |
-| Latest analyzer and runtime regression tests | **Not independently rechecked for v0.1.1** |
+| Later development checkpoint | **v0.1.2+3** passed Flutter analysis, unit tests, and an Android debug APK build on August 29, 2026; this does **not** establish a newer Play release |
 | Public Google Play availability | **Not claimed** |
 
 ## Development boundaries
 
-The documented development handoff recommends checking the v0.1.1 source, arithmetic behavior, calculation history, settings persistence, phone/orientation layout, and analyzer/tests before any further release. Generated Flutter/Gradle caches were cleaned, but the private source and Android release bundle were preserved.
+The v0.1.1 handoff documents arithmetic, history, settings, and layout checks as future release gates. A later v0.1.2+3 development checkpoint passed analysis, tests, and a debug APK build; broader UI acceptance or Play distribution of that version was not verified. Generated Flutter/Gradle caches were cleaned, but the private source and Android release bundle were preserved.
 
 Potential integration with Cash Zombie is **an idea only**, not an implemented capability.
 

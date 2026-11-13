@@ -51,6 +51,22 @@ Three completed moving jobs bring furniture handling, loading, delivery challeng
 
 **Development:** Rick Butts provides the concept, creative direction, and design decisions, with AI-assisted implementation using **Claude and ChatGPT**. **Aubum** generated the original music.
 
+## Windows software projects
+
+### KushCam · multi-system camera wall
+
+[**Explore the KushCam project showcase**](projects/kushcam/README.md)
+
+A Windows camera-wall application bringing authorized Frontpoint/Alarm.com and Night Owl feeds into one locally hosted interface. It includes separately saved **TV Wall** and **Laptop View** layouts, camera tile management, connection-status indicators, and bounded automatic reconnection.
+
+**Status:** R15 works on the MAIN workstation; laptop deployment is partially working and remains under refinement. No public executable or source release yet. The public showcase uses an illustrative, synthetic camera-wall graphic rather than private surveillance footage.
+
+### DarkZombie Dimmer · per-display screen control
+
+A portable Windows utility for software dimming across multiple monitors, with per-display sliders, quick presets, saved favorites, and desktop shortcut/tray integration.
+
+**Status:** v1.0.4 was user-accepted. A subsequent v1.0.5 visual candidate is not yet user-accepted. Public source and Windows downloads are **not published yet**, pending a release review.
+
 ## Aubum · ongoing AI development
 
 [Aubum Local Node](https://github.com/kushzombie420/aubum-local-node) explores how heterogeneous consumer computers and GPUs can coordinate AI workloads as a locally owned system.

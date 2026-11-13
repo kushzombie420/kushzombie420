@@ -59,13 +59,15 @@ Three completed moving jobs bring furniture handling, loading, delivery challeng
 
 A Windows camera-wall application bringing authorized Frontpoint/Alarm.com and Night Owl feeds into one locally hosted interface. It includes separately saved **TV Wall** and **Laptop View** layouts, camera tile management, connection-status indicators, and bounded automatic reconnection.
 
-**Status:** R15 works on the MAIN workstation; laptop deployment is partially working and remains under refinement. No public executable or source release yet. The public showcase uses an illustrative, synthetic camera-wall graphic rather than private surveillance footage.
+**Status:** R15 works on MAIN; the owner has now verified all configured camera feeds on the laptop. Continuous 24/7 stability is not yet verified. No public KushCam executable or source release. The public showcase uses synthetic artwork, not private surveillance footage.
 
 ### DarkZombie Dimmer · per-display screen control
 
+[**Download DarkZombie v1.0.4 and view the source**](projects/darkzombie/README.md)
+
 A portable Windows utility for software dimming across multiple monitors, with per-display sliders, quick presets, saved favorites, and desktop shortcut/tray integration.
 
-**Status:** v1.0.4 was user-accepted. A subsequent v1.0.5 visual candidate is not yet user-accepted. Public source and Windows downloads are **not published yet**, pending a release review.
+**Status:** User-accepted **v1.0.4 Windows portable release and readable source now public**. The later v1.0.5 visual candidate remains unaccepted and is not released.
 
 ## Aubum · ongoing AI development
 

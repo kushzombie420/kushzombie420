@@ -83,7 +83,7 @@ A local-first Windows control dashboard for the private Aubum AI fleet. The Watc
 
 A standalone browser-based desktop clock with a dark charcoal, purple, and zombie-green theme, time/date controls, optional seconds, glow and dim settings, and a matching Windows desktop icon.
 
-**Status:** **Browser-tested v2.1 candidate.** The HTML clock passed local Chromium interaction checks. Its Windows shortcut helper has not yet been verified on a Windows machine. The earlier v2 original remains preserved.
+**Status:** **v2.1 running on Windows, confirmed by the project owner on November 12, 2026.** The HTML also passed local Chromium interaction checks. The optional desktop shortcut helper remains separately unverified. The earlier v2 original is preserved.
 
 ## Aubum · ongoing AI development
 

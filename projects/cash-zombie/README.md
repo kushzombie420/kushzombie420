@@ -4,18 +4,22 @@
 
 Cash Zombie is a zombie-branded Android app for tracking hourly pay, cash/card tips, and work shifts. The project evolved from the earlier **Tipsi** app into a separately branded Flutter application.
 
+![Real Cash Zombie Android screens: Dashboard, New Shift and Stats](assets/cash-zombie-real-android-gallery.jpg)
+
+*Screenshots from the owner's Android device, November 12, 2026. All earnings, shifts, and amounts shown are fictional test data supplied by the owner.*
+
 ## What has been developed
 
 - Clock In and Clock Out shift tracking, with calculated worked duration.
 - Editable shift start and end times.
 - Multiple shifts on one day, sorted chronologically; editing a shift reorders the day's list.
 - Hourly earnings and cash/card tip tracking.
-- Income history, graphs, and calendar-related views.
+- Income history, graphs, and calendar views, including a working monthly income chart shown in the screenshots.
 - Local SQLite-backed data persistence.
 - Mobile interface and selected tablet-responsive layouts.
 - Backup/export-related functionality from the preserved application baseline.
 
-These features describe the documented project; not every individual feature was independently retested in the latest checkpoint.
+These features describe the documented project. The attached images independently show its Dashboard, New Shift, and Stats screens running on Android; not every individual function was independently retested in the latest checkpoint.
 
 ## Verified checkpoints
 

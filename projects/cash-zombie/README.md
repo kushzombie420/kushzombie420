@@ -26,10 +26,10 @@ These features describe the documented project; not every individual feature was
 | Later working-copy version | **v0.2.5+7**, verified in development on August 29, 2026 |
 | v0.2.5+7 code checks | `flutter analyze` clean; **18 Flutter tests passed** |
 | Android debug test | Earlier debug APK successfully built and opened; navigation changes had also been tested on a Pixel 8 emulator |
-| v0.2.5+7 Play release | **Not verified**; don't confuse a passing development build with an uploaded or distributed AAB |
+| v0.2.5+7 Google Play status | **AAB uploaded to Google Play Internal testing on August 29, 2026**; final **Save and publish**, processing, and tester installation were **not confirmed** |
 | Public Google Play availability | **Not claimed** |
 
-The application's last documented implementation improvements included shift pause/resume and History navigation work. Their earlier independent validation checkpoints are retained; the latest v0.2.5+7 verification was a clean analyzer/test run. No claim is made that every earlier experimental branch was promoted.
+The application's last documented implementation improvements included shift pause/resume and History navigation work. Their earlier independent validation checkpoints are retained; the later v0.2.5+7 verification included a clean analyzer/test run and a manual History-screen check of Week, Month, Year, and All-time views on a Pixel 8 emulator. No claim is made that every earlier experimental branch was promoted.
 
 ## Planned improvements
 

@@ -1,6 +1,6 @@
 # Sum of the Dead
 
-**Zombie-themed Android calculator · Flutter · Tested development build / internal-test project**
+**Zombie-themed Android calculator · Flutter · Working, used daily**
 
 Sum of the Dead is a calculator app with a dark zombie-themed interface and green/purple visual styling. The project is separate from Cash Zombie, though possible future cross-app interaction has been discussed only as an idea.
 
@@ -16,11 +16,12 @@ Sum of the Dead is a calculator app with a dark zombie-themed interface and gree
 - Settings controls for **button-press vibration** (enabled in the screenshot) and **sound effects** (disabled in the screenshot).
 - The Settings page reports **Version 0.1.1** and the tagline **Offline. Private. Undead.**
 
-These are confirmed visible Android UI elements. Screenshots do **not** by themselves verify scientific calculations, the copy-result action, theme switching, haptic effects, sound playback, or landscape mode. The separate later v0.1.2+3 development checkpoint does not mean this photographed v0.1.1 installation was upgraded.
+**Real-world use confirmed November 12, 2026:** the project owner uses Sum of the Dead as their everyday calculator and confirms the app is fully functional in normal use. The screenshots show the calculator and its settings, including theme, vibration, and sound controls. Daily use is verified by the owner; formal stress testing and a separate scientific/landscape feature-by-feature audit are not claimed. The later v0.1.2+3 development checkpoint does not mean the photographed v0.1.1 installation was upgraded.
 
 ## Verified checkpoints
 
 | Area | Evidence-based status |
+| Normal daily operation | **WORKING / USER-CONFIRMED** (November 12, 2026); the app serves as the owner's everyday calculator |
 | --- | --- |
 | Preserved release baseline | **v0.1.1**, Android App Bundle built |
 | Android App Bundle | **Built successfully** and protected in the private release archive |
@@ -46,4 +47,4 @@ Potential integration with Cash Zombie is **an idea only**, not an implemented c
 
 [Return to the KushZombie portfolio](../../README.md)
 
-*Status reflects retained August 2026 checkpoints; public showcase added November 2026.*
+*August 2026 build and Play checkpoints remain documented above. Normal-use status updated from the project owner's November 12, 2026 confirmation.*

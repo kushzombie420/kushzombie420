@@ -77,6 +77,14 @@ A local-first Windows control dashboard for the private Aubum AI fleet. The Watc
 
 **Status:** **Working private prototype**, with five GPU feeds shown live in the November 7 field checkpoint. Public documentation includes five annotated screenshots and honest verification boundaries. **Source, live control bridges, credentials, internal network configuration, and deployable builds remain private.** Full reboot and unattended recovery have not been certified.
 
+### KushZombie Clock · DarkZombie Edition
+
+[**Download the offline clock v2.1**](projects/kushzombie-clock/README.md)
+
+A standalone browser-based desktop clock with a dark charcoal, purple, and zombie-green theme, time/date controls, optional seconds, glow and dim settings, and a matching Windows desktop icon.
+
+**Status:** **Browser-tested v2.1 candidate.** The HTML clock passed local Chromium interaction checks. Its Windows shortcut helper has not yet been verified on a Windows machine. The earlier v2 original remains preserved.
+
 ## Aubum · ongoing AI development
 
 [Aubum Local Node](https://github.com/kushzombie420/aubum-local-node) explores how heterogeneous consumer computers and GPUs can coordinate AI workloads as a locally owned system.

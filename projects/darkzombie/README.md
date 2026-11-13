@@ -10,17 +10,22 @@ DarkZombie makes it simple to dim multiple displays separately without constantl
 
 ## Download
 
-**[Download DarkZombie v1.0.4 for Windows](downloads/DarkZombie_v1.0.4_Windows_Portable.zip)**
+**[Download DarkZombie v1.0.5c Polished for Windows](downloads/DarkZombie_v1.0.5c_Windows_Portable.zip)**
 
-This is the **user-accepted v1.0.4 release**, not the later v1.0.5 visual-polish test candidate.
+**Current polished build.** After the original v1.0.5 launch failure, the owner tested v1.0.5c on Windows and reported that it opens and appears to work. This retains the full polished interface and uses the known-good v1.0.4 executable launcher. Longer-term use and operation on other computers have not yet been independently verified.
+
+**[Rollback download: DarkZombie v1.0.4](downloads/DarkZombie_v1.0.4_Windows_Portable.zip)**, the previously accepted baseline. Both ZIPs are retained separately.
 
 - **Platform:** Windows 10/11 x64
 - **Requirements:** Windows PowerShell 5.1 and Windows .NET Framework/WPF (normally already present)
-- **Installer:** None. Extract the ZIP and run `DarkZombie.exe`.
+- **Installer:** None. Extract the ZIP and run `DarkZombie.exe`
 - **Internet or account:** Not required
 - **Administrator permissions:** Not required
+- **Troubleshooting:** `Launch_Visible_Startup.cmd` displays startup errors instead of hiding them
 
-SHA-256 of ZIP: `9b440d93738f3b93a7553e88bc9030ce0860cfe7c5ddffd3f5aefd7964dbb758`
+SHA-256 of **v1.0.5c ZIP:** `951370f54aed2bfc0ea9cc7674c3af220b112e983b17f3f5a63dbd3a9e34ab41`
+
+SHA-256 of **v1.0.4 rollback ZIP:** `9b440d93738f3b93a7553e88bc9030ce0860cfe7c5ddffd3f5aefd7964dbb758`
 
 ## Features
 
@@ -52,15 +57,16 @@ If something goes wrong, close DarkZombie through its tray icon or run `Emergenc
 
 ## Source and credits
 
-The main GUI and dimming logic are implemented in readable Windows PowerShell/WPF:
+The app's graphical interface, monitor dimming, and startup behavior are implemented in readable Windows PowerShell/WPF:
 
-- [Main application source](source/DarkZombie.ps1)
-- The portable ZIP also contains the launcher source and helper scripts for transparency.
+- [**Polished v1.0.5c source**](source/DarkZombie_v1.0.5c.ps1)
+- [**Accepted v1.0.4 rollback source**](source/DarkZombie.ps1)
+- Both portable ZIPs include the relevant launcher source and helper scripts.
 
-**KushZombie:** Concept, design direction, functional requirements, Windows testing, and acceptance. Development used AI-assisted implementation and iteration.
+**KushZombie:** Original concept, creative direction, functional requirements, Windows testing and acceptance. AI-assisted implementation and iteration were used during development.
 
-**Status:** v1.0.4 was tested and accepted by the project owner. The public package is an unsigned portable Windows build, so Windows may warn about an unknown publisher. The archive has been inspected for bundled account/settings files; native Windows behavior on other hardware has not been independently verified.
+**Status:** v1.0.5c launched in the project owner's latest Windows test. Original v1.0.5 failed to open and is **not** the download linked here. The public package is unsigned, so Windows may show an unknown-publisher warning. The archive was checked for bundled account/settings files; deployment on other Windows machines is not independently verified.
 
-Source is provided for transparency; no separate open-source redistribution license is granted by this repository.
+Source is published for transparency; this repository does not grant a separate open-source redistribution license.
 
 [Back to the KushZombie portfolio](../../README.md)

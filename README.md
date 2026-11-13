@@ -63,11 +63,11 @@ A Windows camera-wall application bringing authorized Frontpoint/Alarm.com and N
 
 ### DarkZombie Dimmer · per-display screen control
 
-[**Download DarkZombie v1.0.4 and view the source**](projects/darkzombie/README.md)
+[**Download DarkZombie v1.0.5c Polished and view its source**](projects/darkzombie/README.md)
 
-A portable Windows utility for software dimming across multiple monitors, with per-display sliders, quick presets, saved favorites, and desktop shortcut/tray integration.
+A portable Windows utility for software dimming across multiple monitors, with per-display sliders, presets, favorites, desktop shortcuts, system-tray controls, and a polished dark-purple-and-green touch-friendly interface.
 
-**Status:** User-accepted **v1.0.4 Windows portable release and readable source now public**. The later v1.0.5 visual candidate remains unaccepted and is not released.
+**Status:** Polished **v1.0.5c opens in the owner's Windows test**. The previously accepted **v1.0.4 rollback** remains downloadable. Other hardware and long-term reliability are not yet independently verified. The original v1.0.5 launch failure was not shipped as the current download.
 
 ## Aubum · ongoing AI development
 

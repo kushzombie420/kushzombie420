@@ -1,6 +1,6 @@
 # Cash Zombie
 
-**Android tip, income, and shift tracker · Flutter · Active development**
+**Android tip, income, and shift tracker · Flutter · Working, used daily**
 
 Cash Zombie is a zombie-branded Android app for tracking hourly pay, cash/card tips, and work shifts. The project evolved from the earlier **Tipsi** app into a separately branded Flutter application.
 
@@ -19,11 +19,12 @@ Cash Zombie is a zombie-branded Android app for tracking hourly pay, cash/card t
 - Mobile interface and selected tablet-responsive layouts.
 - Backup/export-related functionality from the preserved application baseline.
 
-These features describe the documented project. The attached images independently show its Dashboard, New Shift, and Stats screens running on Android; not every individual function was independently retested in the latest checkpoint.
+**Real-world use confirmed November 12, 2026:** the project owner reports that Cash Zombie is fully functional and used daily. The attached Android screenshots show Dashboard, New Shift, and Stats screens, with deliberately fictional sample earnings and shifts. This is normal-use verification, not a claim of formal stress or cross-device testing.
 
 ## Verified checkpoints
 
 | Area | Evidence-based status |
+| Normal daily operation | **WORKING / USER-CONFIRMED** (November 12, 2026); the app is used every day |
 | --- | --- |
 | Older protected source | **v0.2.3 tablet-validated recovery baseline**, preserved separately |
 | Last confirmed Google Play installation | **v0.2.4, versionCode 6**, deployed through **Internal testing** and received on the owner's phone |
@@ -51,4 +52,4 @@ Do not upload real work/earnings data, database backups, signing keystores, sign
 
 [Return to the KushZombie portfolio](../../README.md)
 
-*Status evidence last checked against August 2026 development notes; public showcase added November 2026.*
+*August 2026 build and Play checkpoints remain documented above. Normal-use status updated from the project owner's November 12, 2026 confirmation.*

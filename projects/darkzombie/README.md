@@ -2,6 +2,10 @@
 
 **Portable Windows multi-monitor software dimmer** by KushZombie Software.
 
+![Illustrative DarkZombie display control interface](assets/darkzombie-demo.svg)
+
+*Illustrative theme artwork, not a photograph of a user workstation.*
+
 DarkZombie makes it simple to dim multiple displays separately without constantly adjusting each monitor's brightness controls. Designed for dark desktop setups, touchscreen use, and multi-monitor workstations.
 
 ## Download

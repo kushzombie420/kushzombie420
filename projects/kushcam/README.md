@@ -22,7 +22,7 @@ KushCam is an independently developed Windows camera-wall application designed t
 | Area | Status |
 | --- | --- |
 | MAIN Windows installation | **Working, user-accepted R15 baseline** |
-| Laptop deployment | **Partially working / active refinement**; video has been observed, but not all configured cameras reliably connect |
+| Laptop deployment | **All configured camera feeds verified on laptop (user-confirmed, November 12, 2026)**; continuous multi-camera uptime remains unverified |
 | Long-term 24/7 reliability | **Not verified** |
 | Doorbell integration | **Research paused**; no confirmed compatible live source |
 | Public release or installer | **Not available** |

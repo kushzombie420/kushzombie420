@@ -93,7 +93,7 @@ A standalone browser-based desktop clock with a dark charcoal, purple, and zombi
 
 A zombie-branded Flutter income and shift-tracking app covering Clock In/Out, wages, tips, editable shifts, chronological history, and local data storage.
 
-**Status:** v0.2.4+6 reached Google Play **Internal testing** and was installed on the owner's phone. A later **v0.2.5+7** development version passed Flutter analysis and 18 tests in August 2026; a Play upload of that version is not confirmed. **No public download offered here.**
+**Status:** v0.2.4+6 reached Google Play **Internal testing** and was installed on the owner's phone. A later **v0.2.5+7** development build passed Flutter analysis and 18 tests and its AAB was uploaded to Internal testing on August 29, 2026; final publication/installation of that update remains unconfirmed. **No public download offered here.**
 
 ### Sum of the Dead · zombie calculator
 
@@ -101,7 +101,7 @@ A zombie-branded Flutter income and shift-tracking app covering Clock In/Out, wa
 
 An Android Flutter calculator project with zombie styling and documented Calculate, History and Settings sections.
 
-**Status:** v0.1.1 Android App Bundle built and progressed into Google Play's **Internal testing release flow**. Final tester distribution is not verified. Proposed scientific and sound features are not claimed as finished. **No public download offered here.**
+**Status:** v0.1.1 Android App Bundle reached Google Play's **Internal testing release flow**, with final tester distribution unverified. Later **v0.1.2+3** development tests passed analysis, unit tests, and debug APK build. Proposed scientific and sound features are not claimed as finished. **No public download offered here.**
 
 ## Aubum · ongoing AI development
 
